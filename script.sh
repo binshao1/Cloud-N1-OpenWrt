@@ -1,5 +1,5 @@
 #!/bin/bash
-# Version: 1.0
+# Version: 1.0.0
 cd openwrt
 # Disable wireless
 #rm -rf files/etc/config/wireless
